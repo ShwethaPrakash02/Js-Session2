@@ -69,6 +69,8 @@ var B = 4
 var result1 = A > B ? "A > B" : A < B ? "A < B" : "A = B"
 console.log(result1);
 
+//Assignment8
+
 var size = "L"
 if (size === "S"){
   console.log("Small");
